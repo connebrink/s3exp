@@ -1,6 +1,9 @@
 # S3 Bucket Export
 
-Export bucket from S3 to local files
+Export bucket from S3 to local files  
+  
+https://s3ninja.net/  
+
 
 ## Requirements
 - GNU Make
